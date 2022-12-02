@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85cbc1de-cbac-4ea0-a4b1-945ff318eeb2": {
+      "ProjectGuid": "85cbc1de-cbac-4ea0-a4b1-945ff318eeb2",
+      "DisplayName": "OO programming",
+      "ColorIndex": 0
+    },
+    "f2d93ab9-19b6-4e77-986f-403c154f69bc": {
+      "ProjectGuid": "f2d93ab9-19b6-4e77-986f-403c154f69bc",
+      "DisplayName": "OO programmingTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
